@@ -3,7 +3,7 @@
 A simple, modern desktop app for image resizing, icon (ICO) conversion, and Base64 generation, built with [Python](https://python.org/), [Pillow](https://pillow.readthedocs.io/), and [ttkbootstrap](https://ttkbootstrap.readthedocs.io/).  
 No command line needed—just click, preview, and process images with ease!
 
-![screenshot](./Screenshot 2025-07-04 191228.png)
+![screenshot](.//Screenshot%202025-07-04%20191228.png)
 
 ## ✨ Features
 
