@@ -5,8 +5,6 @@ No command line needed—just click, preview, and process images with ease!
 
 ![screenshot](.//Screenshot%202025-07-04%20191228.png)
 
-![screenshot](.//Screenshot%202025-07-04%20191625.png)
-
 ## ✨ Features
 
 - **Image Resize:** Resize images by width, height, or percentage, with optional aspect ratio lock.
@@ -64,13 +62,17 @@ No command line needed—just click, preview, and process images with ease!
 
 ## 📸 Screenshot
 
-![Main Window Screenshot](./screenshot.png)
+![Main Window](.//Screenshot%202025-07-04%20191228.png)
+
+![Image Browser](.//Screenshot%202025-07-04%20191625.png)
 
 ## 🙏 Credits
 
 - [Pillow](https://pillow.readthedocs.io/)
 - [ttkbootstrap](https://ttkbootstrap.readthedocs.io/)
 - [tkinterdnd2](https://pypi.org/project/tkinterdnd2/)
+- Icon by Nikolay Verin at https://www.iconfinder.com/
+  
 
 ---
 
