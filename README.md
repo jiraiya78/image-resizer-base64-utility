@@ -5,6 +5,8 @@ No command line needed—just click, preview, and process images with ease!
 
 ![screenshot](.//Screenshot%202025-07-04%20191228.png)
 
+![screenshot](.//Screenshot%202025-07-04%20191625.png)
+
 ## ✨ Features
 
 - **Image Resize:** Resize images by width, height, or percentage, with optional aspect ratio lock.
